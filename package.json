@@ -3,7 +3,8 @@
   "description": "No-ribbon theme for Shower presentation engine",
   "version": "3.1.2",
   "author": {
-    "name": "John Haiducek",
+      "name": "John Haiducek",
+      "url":"http:pepelsbey.net"
   },
   "homepage": "https://github.com/jhaiduce/noribbon",
   "repository": {
