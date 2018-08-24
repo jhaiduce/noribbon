@@ -1,18 +1,17 @@
 {
-  "name": "shower-ribbon",
-  "description": "Ribbon theme for Shower HTML presentation engine",
+  "name": "shower-noribbon",
+  "description": "No-ribbon theme for Shower presentation engine",
   "version": "3.1.2",
   "author": {
-    "name": "Vadim Makeev",
-    "url": "http://pepelsbey.net/"
+    "name": "John Haiducek",
   },
-  "homepage": "https://github.com/shower/ribbon",
+  "homepage": "https://github.com/jhaiduce/noribbon",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shower/ribbon.git"
+    "url": "git://github.com/jhaiduce/noribbon.git"
   },
   "bugs": {
-    "url": "http://github.com/shower/shower/issues"
+    "url": "http://github.com/jhaiduce/noribbon/issues"
   },
   "license": "MIT",
   "keywords": [
