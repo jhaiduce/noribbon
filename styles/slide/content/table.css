@@ -21,7 +21,7 @@
 
 /* Lines */
 
-.slide tr:not(:last-of-type) > * {
+.slide thead > * {
     background:
         linear-gradient(
             to top,
