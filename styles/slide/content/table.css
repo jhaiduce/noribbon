@@ -12,6 +12,8 @@
 .slide td {
     padding-top: 0;
     padding-bottom: 0;
+    padding-left:0.8em;
+    padding-right:0.8em;
 }
 
 .slide th {
@@ -21,7 +23,7 @@
 
 /* Lines */
 
-.slide thead > * {
+.slide thead{
     background:
         linear-gradient(
             to top,
