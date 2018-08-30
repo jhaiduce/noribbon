@@ -1,9 +1,7 @@
 /* Table */
 
 .slide table {
-    margin-left: -100px;
     margin-bottom: 1em;
-    width: calc(100% + 100px + 100px);
     border-collapse: collapse;
     border-spacing: 0;
 }
@@ -19,16 +17,6 @@
 .slide th {
     text-align: left;
     font-weight: bold;
-}
-
-.slide th:first-child,
-.slide td:first-child {
-    padding-left: 96px;
-}
-
-.slide th:last-child,
-.slide td:last-child {
-    padding-right: 96px;
 }
 
 /* Lines */
