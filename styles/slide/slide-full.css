@@ -14,7 +14,7 @@
     opacity: 1;
     clip: auto;
     z-index:0;
-    transition: z-index 0.2s step-start, opacity 0.2s ease;
+    transition: z-index 0.2s step-start, opacity 0.2s ease, transform 0.2s ease, position 0.2s ease, clip 0.2s ease;
 }
 
 /* Inactive */
