@@ -29,4 +29,5 @@
     color: black;
     counter-reset: slide;
     font: 25px/2 'PT Sans', sans-serif;
+    line-height:1.5;
 }

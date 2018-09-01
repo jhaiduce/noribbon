@@ -53,3 +53,9 @@
 .slide ul > li[value]::before {
     content: attr(value);
 }
+
+.slide li{
+    line-height:1.5;
+    margin-top:0.5em;
+    margin-bottom:0.5em;
+}
