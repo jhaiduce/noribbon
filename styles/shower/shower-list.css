@@ -6,6 +6,7 @@
     display: flex;
     flex-wrap: wrap;
     background: var(--color-grey);
+    transition: background 0.2s ease;
 }
 
 /* IE & Edge Fix */
