@@ -1,9 +1,12 @@
 /* Next */
 
 .shower.full .next {
+    opacity: 0;
     visibility: hidden;
 }
 
 .shower.full .next.active {
+    opacity: inherit;
     visibility: visible;
+    transition: all .2s ease;
 }
